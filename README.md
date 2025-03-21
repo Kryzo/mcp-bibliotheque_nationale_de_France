@@ -110,4 +110,4 @@ Pour contribuer au projet:
 
 ## Licence
 
-Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
+Ce projet est open source.
