@@ -1,0 +1,3 @@
+# BnF API Server Requirements
+requests==2.31.0
+fastmcp==0.1.0
